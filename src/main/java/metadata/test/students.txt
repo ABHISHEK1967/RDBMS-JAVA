@@ -1,0 +1,6 @@
+Database Name: test
+Table Name: students
+Columns:
+	- id (type: INT | Key: PRIMARY KEY)
+	- name (type: TEXT)
+	- email (type: TEXT)

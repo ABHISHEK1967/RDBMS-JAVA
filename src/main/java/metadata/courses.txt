@@ -1,0 +1,6 @@
+Database Name: 
+Table Name: courses
+Columns:
+	- courseId (type: INT | Key: PRIMARY KEY)
+	- courseName (type: TEXT)
+	- id (type: INT | Key: FOREIGN KEY | Reference Table: students | Reference Column: id)

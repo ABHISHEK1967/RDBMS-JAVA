@@ -1,0 +1,12 @@
+CREATE TABLE  || test |$ students EXECUTED AT  2021-12-08 03:09:03.747
+CREATE TABLE  || test |$ courses EXECUTED AT  2021-12-08 03:09:15.186
+Table students has 1 rows 2021-12-08 03:10:52.108
+Table students has 2 rows 2021-12-08 03:11:15.728
+Table courses has 1 rows 2021-12-08 03:11:39.344
+Table students has 1 rows 2021-12-08 03:13:24.287
+Table students has 2 rows 2021-12-08 03:14:03.192
+CREATE TABLE  ||  |$ courses EXECUTED AT  2021-12-08 03:18:43.714
+Table students has 3 rows 2021-12-10 10:25:54.078
+Table students has 4 rows 2021-12-10 10:29:59.674
+Table students has 3 rows 2021-12-10 15:15:04.781
+Table students has 3 rows 2021-12-10 15:18:57.867

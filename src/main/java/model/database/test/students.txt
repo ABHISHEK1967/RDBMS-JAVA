@@ -1,0 +1,4 @@
+id(INT|PK)$||$name(TEXT)$||$email(TEXT)
+3$||$test$||$test@gmail.com
+4$||$ab$||$ab@gmail.com
+@@@@$||$abhi@@@@!@$||$abc@gmail.com
